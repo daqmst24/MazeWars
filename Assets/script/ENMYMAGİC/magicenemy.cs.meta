@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: df5638472994bd24f86ca31a0f99cf4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _playerTran: {instanceID: 0}
+  - _deadMuzik: {instanceID: 0}
+  - _damage: {instanceID: 0}
+  - _hitAuido: {instanceID: 0}
+  - _dedaEffect: {fileID: 4729846761523253944, guid: 81437378048581e4992c7e36226633d1, type: 3}
+  - _projectile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
